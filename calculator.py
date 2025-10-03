@@ -14,3 +14,6 @@ def divide(a, b):
 
 def star(a, b):
     return a * b
+
+
+# changed
